@@ -1,5 +1,5 @@
 # The correct soultion
-def is_prime(num):
+'''def is_prime(num):
     #
     if num < 2:
         return False
@@ -15,4 +15,8 @@ def prime_nums():
     for i in range(1, 101):
         if is_prime(i):
             print(i)
-prime_nums()
+prime_nums()'''
+
+#return section 
+def greater_
+    
